@@ -17,7 +17,7 @@
 As a crypto enthusiast I am really into web3 programming and front end development. It is great to have you here keping up with my projects and self development.
 
 <div>
-  <h1 align='center'> //MySkills// </h1>
+  <h1 align='center'> //MySkills (until now...)// </h1>
 </div>
 
 <div align="center">
@@ -30,6 +30,7 @@ As a crypto enthusiast I am really into web3 programming and front end developme
 <div>
   <h1 align='center'> //MyProjects// </h1>
 </div>
+
 
   
   
