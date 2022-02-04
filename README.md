@@ -12,7 +12,7 @@
   <h1 align='center'> //AboutMe// </h1>
 </div>
 
-  My name is Augusto Korukian, I am a Nanotechnologist with enphasys on Material Science at Federal University of Rio de Janeiro, but since my first coding experience I've been fascinated about it. 
+  My name is Augusto Korukian, I am a Nanotechnologist with emphasys on Material Science at Federal University of Rio de Janeiro, but since my first coding experience I've been fascinated about it. 
 
 As a crypto enthusiast I am really into web3 programming and front end development. It is great to have you here keping up with my projects and self development.
 
